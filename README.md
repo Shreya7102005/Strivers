@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya7102005/Strivers/tree/master/0560-subarray-sum-equals-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3668-restore-finishing-order](https://github.com/Shreya7102005/Strivers/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shreya7102005/Strivers/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
@@ -44,6 +45,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3110-score-of-a-string](https://github.com/Shreya7102005/Strivers/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shreya7102005/Strivers/tree/master/3760-maximum-substrings-with-distinct-start) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
