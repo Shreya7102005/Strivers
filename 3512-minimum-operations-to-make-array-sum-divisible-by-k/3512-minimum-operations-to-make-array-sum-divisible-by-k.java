@@ -4,6 +4,7 @@ class Solution {
         for(int n:nums){
             sum+=n;
         }
-        return sum%k;
+        int ans=sum%k;
+        return ans;
     }
 }
