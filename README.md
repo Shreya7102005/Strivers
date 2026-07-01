@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya7102005/Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreya7102005/Strivers/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya7102005/Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shreya7102005/Strivers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreya7102005/Strivers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreya7102005/Strivers/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya7102005/Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shreya7102005/Strivers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/Shreya7102005/Strivers/tree/master/3925-concatenate-array-with-reverse) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreya7102005/Strivers/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Shreya7102005/Strivers/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shreya7102005/Strivers/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
