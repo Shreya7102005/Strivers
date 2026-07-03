@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya7102005/Strivers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya7102005/Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Shreya7102005/Strivers/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreya7102005/Strivers/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya7102005/Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shreya7102005/Strivers/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Shreya7102005/Strivers/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreya7102005/Strivers/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya7102005/Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shreya7102005/Strivers/tree/master/2161-partition-array-according-to-given-pivot) |
