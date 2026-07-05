@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya7102005/Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shreya7102005/Strivers/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/Shreya7102005/Strivers/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Shreya7102005/Strivers/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Shreya7102005/Strivers/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shreya7102005/Strivers/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Shreya7102005/Strivers/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Shreya7102005/Strivers/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
