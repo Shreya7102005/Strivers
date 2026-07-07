@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya7102005/Strivers/tree/master/0004-median-of-two-sorted-arrays) |
+| [0496-next-greater-element-i](https://github.com/Shreya7102005/Strivers/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya7102005/Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shreya7102005/Strivers/tree/master/1929-concatenation-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shreya7102005/Strivers/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/Shreya7102005/Strivers/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya7102005/Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Shreya7102005/Strivers/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shreya7102005/Strivers/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shreya7102005/Strivers/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
