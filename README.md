@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shreya7102005/Strivers/tree/master/0013-roman-to-integer) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreya7102005/Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Shreya7102005/Strivers/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shreya7102005/Strivers/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreya7102005/Strivers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shreya7102005/Strivers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shreya7102005/Strivers/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/Shreya7102005/Strivers/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Shreya7102005/Strivers/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
