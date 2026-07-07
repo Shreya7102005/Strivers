@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreya7102005/Strivers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shreya7102005/Strivers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya7102005/Strivers/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
