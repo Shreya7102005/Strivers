@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shreya7102005/Strivers/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Shreya7102005/Strivers/tree/master/0070-climbing-stairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreya7102005/Strivers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shreya7102005/Strivers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreya7102005/Strivers/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Shreya7102005/Strivers/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya7102005/Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shreya7102005/Strivers/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shreya7102005/Strivers/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
