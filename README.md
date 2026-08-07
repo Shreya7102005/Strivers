@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shreya7102005/Strivers/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreya7102005/Strivers/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya7102005/Strivers/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Shreya7102005/Strivers/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shreya7102005/Strivers/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Shreya7102005/Strivers/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya7102005/Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shreya7102005/Strivers/tree/master/0048-rotate-image) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shreya7102005/Strivers/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shreya7102005/Strivers/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Shreya7102005/Strivers/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shreya7102005/Strivers/tree/master/0070-climbing-stairs) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreya7102005/Strivers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
