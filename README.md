@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya7102005/Strivers/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shreya7102005/Strivers/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shreya7102005/Strivers/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Shreya7102005/Strivers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shreya7102005/Strivers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shreya7102005/Strivers/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya7102005/Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shreya7102005/Strivers/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shreya7102005/Strivers/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreya7102005/Strivers/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shreya7102005/Strivers/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Shreya7102005/Strivers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shreya7102005/Strivers/tree/master/0073-set-matrix-zeroes) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shreya7102005/Strivers/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
