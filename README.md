@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreya7102005/Strivers/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Shreya7102005/Strivers/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shreya7102005/Strivers/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreya7102005/Strivers/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shreya7102005/Strivers/tree/master/0050-powx-n) |
 ## Stack
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreya7102005/Strivers/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shreya7102005/Strivers/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
