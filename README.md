@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shreya7102005/Strivers/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Shreya7102005/Strivers/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shreya7102005/Strivers/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Shreya7102005/Strivers/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreya7102005/Strivers/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shreya7102005/Strivers/tree/master/1929-concatenation-of-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shreya7102005/Strivers/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreya7102005/Strivers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shreya7102005/Strivers/tree/master/0217-contains-duplicate) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Shreya7102005/Strivers/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreya7102005/Strivers/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
 |  |
