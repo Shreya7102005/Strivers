@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Shreya7102005/Strivers/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreya7102005/Strivers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreya7102005/Strivers/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shreya7102005/Strivers/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shreya7102005/Strivers/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shreya7102005/Strivers/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Shreya7102005/Strivers/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shreya7102005/Strivers/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shreya7102005/Strivers/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreya7102005/Strivers/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shreya7102005/Strivers/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3668-restore-finishing-order](https://github.com/Shreya7102005/Strivers/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shreya7102005/Strivers/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreya7102005/Strivers/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shreya7102005/Strivers/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
