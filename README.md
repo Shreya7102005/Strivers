@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Shreya7102005/Strivers/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Shreya7102005/Strivers/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya7102005/Strivers/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shreya7102005/Strivers/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreya7102005/Strivers/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shreya7102005/Strivers/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shreya7102005/Strivers/tree/master/0283-move-zeroes) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shreya7102005/Strivers/tree/master/0136-single-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Shreya7102005/Strivers/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Binary Search
 |  |
