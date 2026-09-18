@@ -215,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shreya7102005/Strivers/tree/master/3005-count-elements-with-maximum-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreya7102005/Strivers/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreya7102005/Strivers/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
