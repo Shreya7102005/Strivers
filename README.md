@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Shreya7102005/Strivers/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Shreya7102005/Strivers/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreya7102005/Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shreya7102005/Strivers/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Shreya7102005/Strivers/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shreya7102005/Strivers/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shreya7102005/Strivers/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shreya7102005/Strivers/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Shreya7102005/Strivers/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreya7102005/Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shreya7102005/Strivers/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shreya7102005/Strivers/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shreya7102005/Strivers/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shreya7102005/Strivers/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreya7102005/Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shreya7102005/Strivers/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shreya7102005/Strivers/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
