@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shreya7102005/Strivers/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shreya7102005/Strivers/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shreya7102005/Strivers/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shreya7102005/Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Shreya7102005/Strivers/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreya7102005/Strivers/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Shreya7102005/Strivers/tree/master/1920-build-array-from-permutation) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shreya7102005/Strivers/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shreya7102005/Strivers/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shreya7102005/Strivers/tree/master/0073-set-matrix-zeroes) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shreya7102005/Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Shreya7102005/Strivers/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Math
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shreya7102005/Strivers/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Shreya7102005/Strivers/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Shreya7102005/Strivers/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shreya7102005/Strivers/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreya7102005/Strivers/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Shreya7102005/Strivers/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
